@@ -1,0 +1,3 @@
+C:/Users/pmaty/Desktop/praktyki/na gita/Programowanie obiektowe/cmake-build-debug/CMakeFiles/PO.dir
+C:/Users/pmaty/Desktop/praktyki/na gita/Programowanie obiektowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pmaty/Desktop/praktyki/na gita/Programowanie obiektowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
