@@ -1,0 +1,1 @@
+# Konsolowy-obiektowy-program-w-ramach-przedmiotu-Programowanie-Obiektowe
